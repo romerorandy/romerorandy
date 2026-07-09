@@ -1,3 +1,5 @@
+```text
+
 ┌───────────────────────────────────────────────────────────┐
 │ Passionate about data analysis, process optimization      │
 │ and cloud engineering.                                    │
