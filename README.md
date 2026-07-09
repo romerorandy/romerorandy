@@ -1,4 +1,8 @@
-```text
+```console
+randy@github:~$ whoami
+```
+
+```txt
 
 ┌───────────────────────────────────────────────────────────┐
 │ Passionate about data analysis, process optimization      │
