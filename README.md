@@ -5,11 +5,11 @@ randy@github:~$ whoami
 ```txt
 
 ┌───────────────────────────────────────────────────────────┐
-│ Passionate about data analysis, process optimization      │
-│ and cloud engineering.                                    │
+│ Junior developer in training focused on web development,  │
+│ problem solving and building things from scratch.         │
 │                                                           │
-│ Currently learning Data pipeline automation and advanced  │
-│ Pandas manipulation.                                      │
+│ Currently learning frontend development with HTML, CSS,   │
+│ and Javascript.                                           │
 └───────────────────────────────────────────────────────────┘
 ```
 
@@ -19,8 +19,8 @@ randy@github:~$ ls focus/
 
 ```txt
 ┌──────────────────────────────────────────────────────┐
-│  ◈  Data Analysis & Business Intelligence            │
-│  ◈  Cloud Infrastructure & Engineering               │
-│  ◈  Database Design & SQL Optimization               │
-│  ◈  Reporting & Data Visualization                   │
+│  ◈  HTML & CSS                                       │
+│  ◈  Javascript                                       │
+│  ◈  Git & Github                                     │
+│  ◈  Frontend Development                             │
 └──────────────────────────────────────────────────────┘
