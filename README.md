@@ -24,3 +24,7 @@ randy@github:~$ ls focus/
 │  ◈  Git & Github                                     │
 │  ◈  Frontend Development                             │
 └──────────────────────────────────────────────────────┘
+
+```console
+randy@github:~$ echo "learning by building" ▌
+```
