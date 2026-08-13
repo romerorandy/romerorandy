@@ -23,6 +23,7 @@ randy@github:~$ ls focus/
 │  ◈  Javascript                                       │
 │  ◈  Git & Github                                     │
 │  ◈  Frontend Development                             │
+│  ◈  Responsive Design                                │
 └──────────────────────────────────────────────────────┘
 
 ```
