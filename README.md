@@ -9,7 +9,7 @@ randy@github:~$ whoami
 │ problem solving and building things from scratch.         │
 │                                                           │
 │ Currently learning frontend development with HTML, CSS,   │
-│ and Javascript.                                           │
+│ and Responsive Design.                                    │
 └───────────────────────────────────────────────────────────┘
 ```
 
