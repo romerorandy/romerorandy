@@ -41,6 +41,7 @@ randy@github:~$ ls projects/
 │  Repo              │                                                            │
 │                    │                                                            │
 └────────────────────┴────────────────────────────────────────────────────────────┘
+```
 
 ```console
 randy@github:~$ echo "learning by building"
