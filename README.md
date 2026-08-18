@@ -25,8 +25,22 @@ randy@github:~$ ls focus/
 │  ◈  Frontend Development                             │
 │  ◈  Responsive Design                                │
 └──────────────────────────────────────────────────────┘
-
 ```
+
+```console
+randy@github:~$ ls projects/
+```
+
+```txt
+┌────────────────────┬────────────────────────────────────────────────────────────┐
+│                    │                                                            │
+│  Portfolio         │  Personal platform displaying web development projects     │
+│                    │  focused on modern, responsive user interfaces.            │
+│                    │                                                            │
+│  Stack             │  HTML5 · CSS3 · Responsive Design                          │
+│  Repo              │                                                            │
+│                    │                                                            │
+└────────────────────┴────────────────────────────────────────────────────────────┘
 
 ```console
 randy@github:~$ echo "learning by building"
