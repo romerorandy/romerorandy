@@ -34,11 +34,11 @@ randy@github:~$ ls projects/
 ```txt
 ┌────────────────────┬────────────────────────────────────────────────────────────┐
 │                    │                                                            │
-│  Portfolio         │  Personal platform displaying web development projects     │
+│  portfolio-demo    │  Personal platform displaying web development projects     │
 │                    │  focused on modern, responsive user interfaces.            │
 │                    │                                                            │
 │  Stack             │  HTML5 · CSS3 · Responsive Design                          │
-│  Repo              │                                                            │
+│  Repo              │  https://github.com/romerorandy/portfolio-demo             │
 │                    │                                                            │
 └────────────────────┴────────────────────────────────────────────────────────────┘
 ```
